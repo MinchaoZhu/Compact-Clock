@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/clock/set">
+        <file>resource/setting.ini</file>
+    </qresource>
+</RCC>
